@@ -1,4 +1,5 @@
 @echo off
+REM Source https://github.com/Luckyluka17/Ram-Cleaner
 echo X=MsgBox("La version de RAM Cleaner est a jour (version 1.0)",0+64,"Ram Cleaner") >info.vbs
 start info.vbs
 title Ram Cleaner
