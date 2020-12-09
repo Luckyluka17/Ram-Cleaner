@@ -12,4 +12,6 @@ Pour télécharger le logiciel, rendez vous dans la page des [releases](https://
 Si vous ne savez pas comment savoir si vous avez un système 32 ou 64 bit, rendez vous sur cet [article](https://lecrabeinfo.net/32-ou-64-bits-comment-savoir.html)
 
 :warning: **Nous vous conseillons de créer des points de restauration, au cas où si il avait un problème un logiciel, ce qui ne devrais pas être le cas.**
+
+
 ![](https://github.com/Luckyluka17/Ram-Cleaner/blob/main/Assets/88x31.png)
