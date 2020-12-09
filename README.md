@@ -1,4 +1,4 @@
-# Ram Cleaner
+# :screwdriver: Ram Cleaner
 Ram Cleaner est un nettoyeur de Ram (Random Access Memory) qui détermine la puissance de votre ordinateur. Avec ce logiciel, vous allez pouvoir nettoyer la ram de la veille et nettoyer la ram "libre" du prefetch et superfetch.
 ## Instructions
 > 1) Ouvrez le logiciel **en administrateur** (important, car le logiciel ne pourras pas accéder à votre ordinateur
